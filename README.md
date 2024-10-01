@@ -1,3 +1,63 @@
+# GitHub Repositories Viewer
+
+This is a simple React application that fetches and displays repositories from the GoDaddy organization on GitHub.
+
+*Features*
+- Fetches repository data from the GitHub API.
+- Displays a list of repositories.
+- Clicking on a repository shows detailed information including:
+  - Title
+  - Description
+  - Language(s)
+  - Forks, open issues, watchers
+  - Link to the repository page
+
+*Technologies Used*
+- React
+- React Router
+- Axios
+- Jest & React Testing Library (for testing)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
+
+
+
+
+![image](https://github.com/user-attachments/assets/b3469463-0be7-45b9-b201-1b7a15e11617)
+
+![image](https://github.com/user-attachments/assets/2b8e80fe-b663-450d-bf06-9d33d5b8562c)
+
+
+
+
+
+https://github.com/user-attachments/assets/333e531f-6055-4106-8180-fb938956cf89
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
